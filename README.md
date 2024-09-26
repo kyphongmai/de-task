@@ -35,7 +35,7 @@ Welcome! The objective of this task is to design a table schema based on the giv
 - This launches two containers: one for PostgreSQL and another for PgAdmin4
 - Initialisation phase: the scripts in the init folder will be executed in alphabetical order (`create_tables.sql` >> `insert_data.sql`)
 
-    ![init](./figures/init.png)
+    ![init](./figures/Init.png)
 
 4. **Access PgAdmin4**: Open your browser and go to 'http://localhost:8080'. Log in with the email and password specified in `docker-compose.yml`:
 - email: admin@admin.com
